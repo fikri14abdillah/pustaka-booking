@@ -1,9 +1,8 @@
 <?php
-Class Contoh1 extends CI_Controller {
+Class contoh1 extends CI_Controller {
 
 	public function index()
 	{
-		echo "<h1>Perkenalkan </h1>";
-        echo "<h1>Nama saya Muhammad Fikri Abdillah</h1>";
+		echo "Selamat Datang.. Selamat Belajar Web Programming 2";
 	}
 }
